@@ -29,7 +29,7 @@ A Streamlit web app that analyzes a Reddit user's public posts and comments to g
    ```
 
 3. **Configure API Keys:**
-   - Create a `.streamlit/secrets.toml` file:
+   - Add your api credentails to `.streamlit/secrets.toml` file:
      ```toml
      REDDIT_CLIENT_ID = "your_reddit_client_id"
      REDDIT_CLIENT_SECRET = "your_reddit_client_secret"
