@@ -13,7 +13,7 @@ A Streamlit web app that analyzes a Reddit user's public posts and comments to g
 - [Streamlit](https://streamlit.io/) (UI)
 - [Google Gemini API](https://ai.google.dev/) (AI analysis)
 - [Reddit API (PRAW)](https://praw.readthedocs.io/) (data scraping)
-- [fpdf2](https://pypi.org/project/fpdf2/) (PDF export)
+
 
 ## 📦 Setup Instructions
 
@@ -47,7 +47,7 @@ A Streamlit web app that analyzes a Reddit user's public posts and comments to g
 - Enter a Reddit profile URL (e.g. `https://www.reddit.com/user/example_user/`)
 - Click **Generate Persona**
 - View the generated persona in the app
-- Download the persona as TXT or PDF
+- Download the persona as TXT file
 
 ## 📋 Example Output
 ```
