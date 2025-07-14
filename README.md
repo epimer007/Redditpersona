@@ -6,7 +6,7 @@ A Streamlit web app that analyzes a Reddit user's public posts and comments to g
 - Enter any Reddit profile URL and generate a structured persona report
 - Uses Google Gemini (Generative AI) for deep analysis
 - Outputs persona in a consistent, human-readable format
-- Download persona as TXT or PDF
+- Download persona as TXT file
 - Clean, modern UI
 
 ## 🛠️ Tech Stack
